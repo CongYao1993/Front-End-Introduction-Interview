@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app-6xsTL0OS.js";const r={};function c(o,n){return a(),t("div")}const s=e(r,[["render",c],["__file","Vuex.html.vue"]]),u=JSON.parse('{"path":"/Vue/Vuex.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"Vue/Vuex.md"}');export{s as comp,u as data};

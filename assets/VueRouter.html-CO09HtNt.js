@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./app-6xsTL0OS.js";const o={};function a(c,u){return r(),t("div")}const l=e(o,[["render",a],["__file","VueRouter.html.vue"]]),s=JSON.parse('{"path":"/Vue/VueRouter.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"Vue/VueRouter.md"}');export{l as comp,s as data};
